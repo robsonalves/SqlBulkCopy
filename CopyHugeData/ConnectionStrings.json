@@ -1,0 +1,5 @@
+﻿{
+    "ConnectionSource": "Source",
+    "ConnectionDestiny": "Destiny",
+    "TableDestiny":  "Schema.Table"
+}
